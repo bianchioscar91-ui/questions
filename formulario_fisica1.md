@@ -1,5 +1,7 @@
 # Formulario Fisica 1 – Primo parziale
 
+La versione da stampare, con i titoli evidenziati e gli schemi, è `formulario_fisica1.pdf`.
+
 Da ricopiare a mano. In ogni sezione le formule sono in ordine di priorità: se manca spazio, taglia dal fondo della sezione.
 
 Convenzioni: asse y verso l'alto; g = 9.81 m/s²; α = inclinazione del piano sull'orizzontale. θ è definito accanto alla formula. I moduli sono positivi.
@@ -525,7 +527,7 @@ Regola rapida: forze note e serve a o T → dinamica; due posizioni e serve v �
 
 Questa nota non fa parte del formulario.
 
-Nessun limite di pagine era indicato (il segnaposto era vuoto). Le formule occupano 4 pagine; la nota in coda non va copiata.
+Nessun limite di pagine era indicato (il segnaposto era vuoto). Nel PDF le formule e gli schemi occupano 6 pagine; l'ultima pagina è la nota e non va copiata.
 
 Le ipotesi geometriche e le formule senza un numero dei tuoi testi sono nella pagina finale del file Word.
 
