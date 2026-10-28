@@ -1,6 +1,8 @@
 # Formulario Fisica 1 – Primo parziale
 
-La versione da stampare, con i titoli evidenziati e gli schemi, è `formulario_fisica1.pdf`.
+Il foglio da aprire e da stampare è **formulario_fisica1.pdf** (doppio clic, con Chrome o Anteprima). Lì ci sono i titoli evidenziati e gli schemi.
+
+Se un file si apre come testo e vedi `?` o simboli strani, non è il formulario rotto: è il programma che legge i caratteri interni del PDF. In questo file di testo i pedici sono scritti con il trattino basso, come `a_x` e `v_0`.
 
 Da ricopiare a mano. In ogni sezione le formule sono in ordine di priorità: se manca spazio, taglia dal fondo della sezione.
 
